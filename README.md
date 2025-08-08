@@ -1,1 +1,1 @@
-# Miphi
+# MEPhI
